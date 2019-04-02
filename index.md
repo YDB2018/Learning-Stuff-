@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Welcome!!!
 
-You can use the [editor on GitHub](https://github.com/YDB2018/Learning-Stuff-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 测试阶段学习材料
 
-### Markdown
+[详细开发流程]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+(https://github.com/YDB2018/Learning-Stuff/blob/master/%E8%AF%A6%E7%BB%86%E5%BC%80%E5%8F%91%E6%B5%81%E7%A8%8B.pdf)
 
-```markdown
-Syntax highlighted code block
+[double类型注意事项]
 
-# Header 1
-## Header 2
-### Header 3
+（https://github.com/YDB2018/Learning-Stuff/blob/master/double%E5%9E%8B%E6%B5%8B%E8%AF%95%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.pdf）
 
-- Bulleted
-- List
+测试阶段工作人员：
+左泽（组长）
+余东波
+金泽文
+刘军明
+光煦灿
 
-1. Numbered
-2. List
+DeadLine :  2019/4/16
 
-**Bold** and _Italic_ and `Code` text
+### 汇编代码开发部分
 
-[Link](url) and ![Image](src)
-```
+以下链接是第一次培训录屏
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+链接：https://pan.baidu.com/s/1j_mINAkGWlsk3-aa7WwvBA 
 
-### Jekyll Themes
+提取码：oxx0 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YDB2018/Learning-Stuff-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+汇编代码开发阶段工作人员：
+左泽（组长）
+余东波
+金泽文
+光煦灿
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+### 
+
+
